@@ -1,3 +1,6 @@
+### INTULocationManager fork with iOS 14.5 support ###
+Original repo [INTULocationManager](https://github.com/intuit/LocationManager) 
+
 # [![INTULocationManager](https://github.com/intuit/LocationManager/blob/master/Images/INTULocationManager.png?raw=true)](#)  
 [![Build Status](http://img.shields.io/travis/intuit/LocationManager.svg?style=flat)](https://travis-ci.org/intuit/LocationManager) [![Test Coverage](http://img.shields.io/coveralls/intuit/LocationManager.svg?style=flat)](https://coveralls.io/r/intuit/LocationManager) [![Version](http://img.shields.io/cocoapods/v/INTULocationManager.svg?style=flat)](http://cocoapods.org/pods/INTULocationManager) [![Platform](http://img.shields.io/cocoapods/p/INTULocationManager.svg?style=flat)](http://cocoapods.org/pods/INTULocationManager) [![License](http://img.shields.io/cocoapods/l/INTULocationManager.svg?style=flat)](LICENSE)
 
